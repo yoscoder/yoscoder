@@ -69,14 +69,10 @@ Goal:       Construir sobre bases sólidas, no sobre suposiciones.
 
 <div align="center">
 
-![Yoscoder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoscoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoscoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yoscoder&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-</div>
-
+<!--END_SECTION:activity-->
 ---
 
 ## 🧠 Filosofía de aprendizaje
