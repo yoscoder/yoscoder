@@ -71,10 +71,11 @@ Goal:       Construir sobre bases sólidas, no sobre suposiciones.
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [storytold/artcraft](https://github.com/storytold/artcraft)<br>
+1. ⭐ Starred [storytold/pdfcraft](https://github.com/storytold/pdfcraft)<br>
+2. ⭐ Starred [storytold/artcraft](https://github.com/storytold/artcraft)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 2nd, 2026, 9:28:57 PM
+Last Updated: Tuesday, November 3rd, 2026, 5:43:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
